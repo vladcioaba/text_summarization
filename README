@@ -1,0 +1,15 @@
+Results of the experiments related to text summarization. 
+
+
+In below experiment all the tokenizers were evaluated on CNNDM and XSum datasets.
+experiments/TokenizersEvaluationDatasets.ipynb
+
+In below experiment all tokenizers embeddings were evaluated on CNNDM and XSum datasets.
+experiments/TokenizersEncodersEvaluation.ipynb
+
+
+In below experiment there is an implementatoin of the Transformer Encoder-Decoder with 6 layers.
+experiments/TransformerModelVanilla.ipynb
+
+the best trained model wights can be downloaded from https://drive.google.com/file/d/1VviH1B3f-WTgVFHXfbdabWXKL9AFoRjr/view?usp=sharing
+the training results for the model can be downloaded from https://drive.google.com/file/d/1Yf6C4w8rbcgMqlSz49cIWdindwfKtKiz/view?usp=sharing
